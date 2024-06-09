@@ -18,8 +18,6 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto AI - Surgimento                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em AI, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
-
 | conteúdo | Faça um texto para ebook , com foco em AI, contando seu surgimento. Explique sempre de uma maneira simples Deixe o texto enxuto, , sempre deixe um título sugestivo por tópico |
 
 
